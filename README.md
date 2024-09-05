@@ -32,3 +32,4 @@ This Chrome extension allows you to quickly shorten the current URL of the page 
    - Click on the extension icon, and it will shorten the current page URL.
 
 ## Screenshots
+<img src="https://github.com/siddxharth1/images/blob/main/SnipLink%20chrome%20extension.png" /> 
